@@ -1,2 +1,3 @@
 # Chatroom
-2 Java JRE files, Server and Client. Together they make a chatroom
+
+Two Java JAR files, Server and Client. Together they make a chatroom
